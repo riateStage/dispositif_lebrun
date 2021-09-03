@@ -41,21 +41,7 @@ Il contient également les cartes produites pour chacune des trois FUA, qui poss
         - ‘QPV_Fu’ : contient les découpages des QPV, avec leur code, leur nom et un champ indiquant s’il s’agit d’un secteur du NPNRU.
 
 
-### Application shiny
-
-* Shiny » contient les documents relatifs à l’application Shiny qui permet une visualisation facilitée des données produites : 
-  - ‘app’ contient un script ouvrant une interface shiny (en cliquant simplement sur « Run App » une fois les inputs téléchargés).
-
-Le script utilise :
-- Les géographies communales enregistrées dans le dossier « Processing/analyses/geom/output » : 
-•	geom_Paris_FUA.gpkg
-•	geom_Lyon_FUA.gpkg
-•	geom_Avignon_FUA.gpkg
-- Les données de la base sur les zonages et les dispositifs d’aide à l’investissement immobilier enregistrées dans « Processing/analyses/Dispositifs/Output » puis dans les trois sous-dossiers « Paris », « Lyon » et « Avignon » :
-•	« Dispositifs_Paris.xlsx »
-•	« Dispositifs_Lyon.xlsx »
-•	« Dispositifs_Avignon.xlsx »
-
+Toutes ces informations servent notamment à construire l'application shiny accessible [ici](https://github.com/riateStage/dispositif_lebrun_shiny)
 
 
 
