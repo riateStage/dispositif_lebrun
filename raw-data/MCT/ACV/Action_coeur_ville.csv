@@ -1,0 +1,235 @@
+INSEE_COM;LIB_COM;LIB_ACV
+1004;Ambérieu-en-Bugey;Ambérieu-en-Bugey
+1053;Bourg-en-Bresse;Bourg-en-Bresse
+1283;Oyonnax;Oyonnax
+2168;Château-Thierry;Château-Thierry
+2408;Laon;Laon
+2691;Saint-Quentin;Saint-Quentin
+2722;Soissons;Soissons
+3185;Montluçon;Montluçon
+3190;Moulins;Moulins
+3310;Vichy;Vichy
+4070;Digne-les-Bains;Digne-les-Bains
+4112;Manosque;Manosque
+5023;Briançon;Briançon
+5061;Gap;Gap
+6069;Grasse;Grasse
+6155;Vallauris;Vallauris
+7010;Annonay;Annonay
+7019;Aubenas;Aubenas
+7186;Privas;Privas
+8105;Charleville-Mézières;Charleville-Mézières
+8409;Sedan;Sedan
+9122;Foix;Foix
+9225;Pamiers;Pamiers
+10387;Troyes;Troyes
+11069;Carcassonne;Carcassonne
+11262;Narbonne;Narbonne
+12145;Millau;Millau
+12202;Rodez;Rodez
+12300;Villefranche-de-Rouergue;Villefranche-de-Rouergue
+13004;Arles;Arles
+13108;Tarascon;Tarascon
+14366;Lisieux;Lisieux
+14762;Vire Normandie;Vire Normandie
+15014;Aurillac;Aurillac
+16015;Angoulême;Angoulême
+16102;Cognac;Cognac
+17299;Rochefort;Rochefort
+17415;Saintes;Saintes
+18033;Bourges;Bourges
+18279;Vierzon;Vierzon
+19031;Brive-la-Gaillarde;Brive-la-Gaillarde
+19272;Tulle;Tulle
+22113;Lannion;Lannion
+22278;Saint-Brieuc;Saint-Brieuc
+23096;Guéret;Guéret
+24037;Bergerac;Bergerac
+24322;Périgueux;Périgueux
+25056;Besançon;Besançon
+25388;Montbéliard;Montbéliard
+26057;Bourg-de-Péage;Romans-sur-Isère-Bourg-de-Péage
+26198;Montélimar;Montélimar
+26281;Romans-sur-Isère;Romans-sur-Isère-Bourg-de-Péage
+26362;Valence;Valence
+27229;Évreux;Évreux
+27375;Louviers;Louviers
+27681;Vernon;Vernon
+28085;Chartres;Chartres
+28134;Dreux;Dreux
+28280;Nogent-le-Rotrou;Nogent-le-Rotrou
+29151;Morlaix;Morlaix
+29232;Quimper;Quimper
+2A004;Ajaccio;Ajaccio
+2B033;Bastia;Bastia
+30007;Alès;Alès
+30028;Bagnols-sur-Cèze;Bagnols-sur-Cèze
+31451;Revel;Revel
+32013;Auch;Auch
+33243;Libourne;Libourne
+34003;Agde;Agde
+34032;Béziers;Béziers
+34145;Lunel;Lunel
+34301;Sète;Sète
+35115;Fougères;Fougères
+35236;Redon;Redon
+35288;Saint-Malo;Saint-Malo
+35360;Vitré;Vitré
+36044;Châteauroux;Châteauroux
+36088;Issoudun;Issoudun
+37072;Chinon;Chinon
+38053;Bourgoin-Jallieu;Bourgoin-Jallieu
+38544;Vienne;Vienne
+38563;Voiron;Voiron
+39198;Dole;Dole
+39300;Lons-le-Saunier;Lons-le-Saunier
+40088;Dax;Dax
+40192;Mont-de-Marsan;Mont-de-Marsan
+41018;Blois;Blois
+41194;Romorantin-Lanthenay;Romorantin-Lanthenay
+42147;Montbrison;Montbrison
+42187;Roanne;Roanne
+43157;Le Puy-en-Velay;Le Puy-en-Velay
+44036;Châteaubriant;Châteaubriant
+44184;Saint-Nazaire;Saint-Nazaire
+45155;Gien;Gien
+45208;Montargis;Montargis
+45252;Pithiviers;Pithiviers
+46042;Cahors;Cahors
+46102;Figeac;Figeac
+47001;Agen;Agen
+47157;Marmande;Marmande - Tonneins
+47310;Tonneins;Marmande - Tonneins
+47323;Villeneuve-sur-Lot;Villeneuve-sur-Lot
+48095;Mende;Mende
+49099;Cholet;Cholet
+49328;Saumur;Saumur
+50129;Cherbourg-en-Cotentin;Cherbourg-en-Cotentin
+50502;Saint-Lô;Saint-Lô
+51108;Châlons-en-Champagne;Châlons-en-Champagne
+51230;Épernay;Épernay
+51649;Vitry-le-François;Vitry-le-François
+52121;Chaumont;Chaumont
+52448;Saint-Dizier;Saint-Dizier
+53130;Laval;Laval
+54323;Longwy;Longwy
+54329;Lunéville;Lunéville
+54528;Toul;Toul
+55029;Bar-le-Duc;Bar-le-Duc
+55545;Verdun;Verdun
+56121;Lorient;Lorient
+56178;Pontivy;Pontivy
+56260;Vannes;Vannes
+57227;Forbach;Forbach
+57606;Saint-Avold;Saint-Avold
+57630;Sarrebourg;Sarrebourg
+57631;Sarreguemines;Sarreguemines
+57672;Thionville;Thionville
+58086;Cosne-Cours-sur-Loire;Cosne-Cours-sur-Loire
+58194;Nevers;Nevers
+59122;Cambrai;Cambrai
+59172;Denain;Denain
+59178;Douai;Douai
+59183;Dunkerque;Dunkerque
+59392;Maubeuge;Maubeuge
+59606;Valenciennes;Valenciennes
+60057;Beauvais;Beauvais
+60159;Compiègne;Compiègne
+60175;Creil;Creil
+60612;Senlis;Senlis
+61001;Alençon;Alençon
+61006;Argentan;Argentan
+61169;Flers;Flers
+62041;Arras;Arras
+62119;Béthune;Béthune - Bruay-la-Buissière
+62160;Boulogne-sur-Mer;Boulogne-sur-Mer
+62178;Bruay-la-Buissière;Béthune - Bruay-la-Buissière
+62193;Calais;Calais
+62498;Lens;Lens - Liévin
+62510;Liévin;Lens - Liévin
+62765;Saint-Omer;Saint-Omer
+63178;Issoire;Issoire
+63300;Riom;Riom
+63430;Thiers;Thiers
+64102;Bayonne;Bayonne
+64445;Pau;Pau
+65286;Lourdes;Lourdes
+65440;Tarbes;Tarbes
+66136;Perpignan;Perpignan
+67180;Haguenau;Haguenau
+67437;Saverne;Saverne
+68066;Colmar;Colmar
+68112;Guebwiller;Guebwiller
+69243;Tarare;Tarare
+70550;Vesoul;Vesoul
+71014;Autun;Autun
+71076;Chalon-sur-Saône;Chalon-sur-Saône
+71153;Le Creusot;Le Creusot
+71270;Mâcon;Mâcon
+71306;Montceau-les-Mines;Montceau-les-Mines
+72154;La Flèche;La Flèche - Sablé-sur-Sarthe
+72264;Sablé-sur-Sarthe;La Flèche - Sablé-sur-Sarthe
+73065;Chambéry;Chambéry
+74225;Rumilly;Rumilly
+76217;Dieppe;Dieppe
+76259;Fécamp;Fécamp
+77014;Avon;Fontainebleau - Avon
+77131;Coulommiers;Coulommiers
+77186;Fontainebleau;Fontainebleau - Avon
+77284;Meaux;Meaux
+77288;Melun;Melun
+77305;Montereau-Fault-Yonne;Montereau-Fault-Yonne
+77333;Nemours;Nemours
+78335;Limay;Limay - Mantes-la-Jolie
+78361;Mantes-la-Jolie;Limay - Mantes-la-Jolie
+78440;Les Mureaux;Les Mureaux-Meulan
+78401;Meulan;Les Mureaux-Meulan
+78498;Poissy;Poissy
+78517;Rambouillet;Rambouillet
+78586;Sartrouville;Sartrouville
+78621;Trappes;Trappes
+79049;Bressuire;Bressuire
+79191;Niort;Niort
+80001;Abbeville;Abbeville
+81004;Albi;Albi
+81065;Castres;Castres - Mazamet
+81163;Mazamet;Castres - Mazamet
+82121;Montauban;Montauban
+83023;Brignoles;Brignoles
+83050;Draguignan;Draguignan
+84007;Avignon;Avignon
+84031;Carpentras;Carpentras
+84035;Cavaillon;Cavaillon
+85092;Fontenay-le-Comte;Fontenay-le-Comte
+85191;La Roche-sur-Yon;La Roche-sur-Yon
+86066;Châtellerault;Châtellerault
+86194;Poitiers;Poitiers
+87085;Limoges;Limoges
+88160;Épinal;Épinal
+88413;Saint-Dié-des-Vosges;Saint-Dié-des-Vosges
+89024;Auxerre;Auxerre
+89387;Sens;Sens
+90010;Belfort;Belfort
+91021;Arpajon;Arpajon
+91174;Corbeil-Essonnes;Corbeil-Essonnes
+91223;Étampes;Étampes
+91228;Évry;Évry
+91570;Saint-Michel-sur-Orge;Saint-Michel-sur-Orge
+95052;Beaumont-sur-Oise;Beaumont-sur-Oise - Persan
+95277;Gonesse;Gonesse
+95487;Persan;Beaumont-sur-Oise - Persan
+97101;Les Abymes;Les Abymes - Pointe-à-Pitre
+97105;Basse-Terre;Basse-Terre
+97120;Pointe-à-Pitre;Les Abymes - Pointe-à-Pitre
+97209;Fort-de-France;Fort-de-France
+97213;Le Lamentin;Le Lamentin
+97302;Cayenne;Cayenne
+97311;Saint-Laurent-du-Maroni;Saint-Laurent-du-Maroni
+97407;Le Port;Le Port
+97409;Saint-André;Saint-André
+97412;Saint-Joseph;Saint-Joseph
+97416;Saint-Pierre;Saint-Pierre
+97607;Dembeni;Dembeni
+97608;Dzaoudzi;Dzaoudzi - Pamandzi
+97611;Mamoudzou;Mamoudzou
+97615;Pamandzi;Dzaoudzi - Pamandzi
